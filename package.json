@@ -1,0 +1,11 @@
+{
+  "name": "angular-ivy-ngif",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@angular/common": "next",
+    "@angular/core": "next",
+    "rxjs": "^6.4.0",
+    "zone.js": "^0.9.0"
+  }
+}
